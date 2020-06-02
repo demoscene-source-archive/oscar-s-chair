@@ -1,0 +1,1 @@
+shader_minifier.exe -o shader_code.h fragment.glsl
